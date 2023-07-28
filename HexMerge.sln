@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexMerge", "HexMerge\HexMerge.csproj", "{F21D24F7-98B4-4F1A-B40D-0945E1B893B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexMergeShell", "HexMergeShell\HexMergeShell.csproj", "{4BC373D5-85ED-461D-B22E-A1FB74319299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F21D24F7-98B4-4F1A-B40D-0945E1B893B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21D24F7-98B4-4F1A-B40D-0945E1B893B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21D24F7-98B4-4F1A-B40D-0945E1B893B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21D24F7-98B4-4F1A-B40D-0945E1B893B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC373D5-85ED-461D-B22E-A1FB74319299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC373D5-85ED-461D-B22E-A1FB74319299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC373D5-85ED-461D-B22E-A1FB74319299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC373D5-85ED-461D-B22E-A1FB74319299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20ADF6B1-7ECA-4267-97D9-A7F230F26EB6}
+	EndGlobalSection
+EndGlobal
